@@ -23,13 +23,13 @@ repository               : "meenuravi18/meenuravi18.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Welcome to my Page!"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : ""
+  location         : "Washington D.C."
+  employer         : "Virginia Tech | MITRE Corp."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ravim@vt.edu" 
 
   # Academic websites
   academia         : # URL
