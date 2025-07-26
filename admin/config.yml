@@ -2,6 +2,10 @@ backend:
   name: github
   repo: meenuravi18/meenuravi18.github.io
   branch: main
+  auth_scope: repo
+  base_url: https://auth.netlify.com
+  auth_endpoint: /authorize
+  app_id: Ov23liRcCavzC2QxIFBf
 
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"
