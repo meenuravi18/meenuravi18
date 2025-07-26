@@ -1,5 +1,5 @@
 ---
-permalink: /resources/
+permalink: /markdown/
 title: "Resources and Advice"
 author_profile: true
 ---
