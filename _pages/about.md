@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a data scientist at The MITRE corporation in McLean, VA. I am currently a Ph.D. student at Virginia Tech, where I am studying computer science. My research interests are in NLP, particularly information extraction, knowledge graphs, and machine learning with applications in environmental and geosciences.
+I am a data scientist at The MITRE Corporation in McLean, VA, and a Ph.D. student in Computer Science at Virginia Tech. My research focuses on natural language processing, with an emphasis on information extraction, knowledge graphs, and machine learning, particularly in environmental and geoscience applications.
