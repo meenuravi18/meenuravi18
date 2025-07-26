@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Meenu Ravi"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,22 +23,22 @@ repository               : "meenuravi18/meenuravi18.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Welcome to my page!"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "Washington D.C."
-  employer         : "Virginia Tech | The MITRE Corporation"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "ravim@vt.edu" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-              : "http://.org/yoururl"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-             : "https://www.ncbi.nlm.nih.gov//?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-            : "bsky.app" # Replace this with you  username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

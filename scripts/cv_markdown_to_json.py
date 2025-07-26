@@ -118,11 +118,11 @@ def extract_author_info(config):
                 "url": author.get('googlescholar')
             })
         
-        if author.get(''):
+        if author.get('orcid'):
             profiles.append({
-                "network": "",
+                "network": "ORCID",
                 "username": "",
-                "url": author.get('')
+                "url": author.get('orcid')
             })
         
         if author.get('researchgate'):

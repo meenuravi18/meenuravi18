@@ -314,10 +314,10 @@
 .ai-openedition-square:before {
   content: "\e947";
 }
-.ai-:before {
+.ai-orcid:before {
   content: "\e9d9";
 }
-.ai--square:before {
+.ai-orcid-square:before {
   content: "\e9c3";
 }
 .ai-osf:before {
@@ -368,10 +368,10 @@
 .ai-publons-square:before {
   content: "\e94e";
 }
-.ai-:before {
+.ai-pubmed:before {
   content: "\e99f";
 }
-.ai--square:before {
+.ai-pubmed-square:before {
   content: "\e97d";
 }
 .ai-pubpeer:before {

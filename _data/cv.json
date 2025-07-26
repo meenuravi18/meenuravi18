@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Welcome to my page!",
+    "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Virginia Tech | The MITRE Corporation. ",
+    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Washington D.C.",
+      "city": "Earth",
       "countryCode": "US",
       "region": ""
     },
@@ -19,9 +19,9 @@
         "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
       },
       {
-        "network": "",
+        "network": "ORCID",
         "username": "",
-        "url": "http://.org/yoururl"
+        "url": "http://orcid.org/yourorcidurl"
       },
       {
         "network": "GitHub",
