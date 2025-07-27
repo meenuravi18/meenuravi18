@@ -10,7 +10,8 @@ author_profile: true
   I have designed a [Research Journal](https://www.amazon.com/Research-Journal-Meenu-Ravi/dp/B0F9VCTLGV) for collecting, organizing, and taking notes on literature review.  
   When I was using online tools/apps, I would often mindlessly copy-paste notes or screenshots. I wasn't truly learning the material and it became perfunctory.  
   Writing my notes, especially in a limited amount of space, helps me focus on what’s important, distill the main points, and improve understanding.
-![alt text](https://raw.githubusercontent.com/meenuravi18/meenuravi18.github.io/main/images/rj.png)
+
+![Research Journal](/images/rj.png)
 
 - Zotero is great for building a literature repository. It integrates easily with Overleaf for quick citations.
 
