@@ -11,7 +11,7 @@ author_profile: true
   When I was using online tools/apps, I would often mindlessly copy-paste notes or screenshots. I wasn't truly learning the material and it became perfunctory.  
   Writing my notes, especially in a limited amount of space, helps me focus on what’s important, distill the main points, and improve understanding.
 
-![Research Journal](/images/rj.png)
+![Research Journal](/images/IMG_0973.png)
 
 - Zotero is great for building a literature repository. It integrates easily with Overleaf for quick citations.
 
