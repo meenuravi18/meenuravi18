@@ -25,11 +25,15 @@ author_profile: true
 
 ---
 
-## Research Ideas
+## Research Ideas and Miscellaneous
 
-- One method I find incredibly helpful for finding research topics and ideas is to write everything down!  
+- One method I find very helpful for finding research topics and ideas is to write everything down!  
   Writing and reflecting often reveals new ideas—methods, algorithms, or novel directions.  
   Keeping a record of meetings, papers read, and your own thoughts provides a clear view of how your thinking has evolved.  
   It's also invaluable when drafting papers—you can retrieve insights you didn’t realize you'd need.
+- After each class, paper, or event I participate in, I like to reflect upon it. This can include committee feedback on papers, what I learned in class, new concepts I encountered, my opinions on a talk, and questions that come to mind. In the past I have fallen victim to mindlessly taking courses with the goal of completion, and while that is important, I have found that reflecting on the activities I participate in allows me to practice gratitude and gain a high-level understanding of each experience in relation to my long-term goals.
 
-- Ideas can come from anywhere—movies, books, podcasts—so I keep a notebook with me to track them all.
+## Favorite Media (Not specific to research- just in general)
+
+- [Youtube channel about reading, journaling, writing] (https://youtube.com/@phinefem?si=H3lKYoDV5Yt07mea)
+  
