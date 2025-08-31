@@ -19,9 +19,11 @@ author_profile: true
 
 ## Writing
 
-- Overleaf is fantastic for drafting research papers and journal articles, especially with its support for tables, figures, and citations.
+- Overleaf is helful for drafting research papers and journal articles, especially with its support for tables, figures, and citations.
 
 - [Mark Leone's (CMU) Blog](https://www.cs.cmu.edu/~mleone/how-to.html) offers helpful advice on academic writing, research skills, and career development.
+
+- [Gimp](https://www.gimp.org/) is a free cross-platform image editor available for GNU/Linux, macOS, and Windows. Great for creating/ editing clear figures and diagrams for papers.
 
 ---
 
