@@ -38,4 +38,5 @@ author_profile: true
 ## Favorite Media (Not specific to research- just in general)
 
 - [Youtube channel about reading, journaling, writing](https://youtube.com/@phinefem?si=H3lKYoDV5Yt07mea)
+- [Youtube channel about Reading and poetry](https://youtu.be/YFbjEAP0Vf4?si=nbcluBvXs-YLZ28D)
   
